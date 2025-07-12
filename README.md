@@ -1,6 +1,5 @@
-====================================
+
 SUBDOMAIN ENUMERATOR & RECURSIVE WEB CRAWLER
-====================================
 
 **PROJECT OVERVIEW**
 This repository contains two Python-based reconnaissance tools for performing detailed web analysis:
